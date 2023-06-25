@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RAKuJt0HlUWs0ttreH09Ng",
+  "Reference": "6OirDdu7D02i2wmLPngoxQ/RAKuJt0HlUWs0ttreH09Ng",
+  "ParentRef": "6OirDdu7D02i2wmLPngoxQ/bDkxu2hi3EaWmWaXpxqrnA",
+  "Name": "SearchText",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-06-22T08:11:28.9216313Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-22T08:12:17.516742Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

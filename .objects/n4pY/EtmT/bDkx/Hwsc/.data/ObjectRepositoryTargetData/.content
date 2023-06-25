@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VltMgto-60KOpKaFTS3frA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.amazon.com/s?k=laptops&amp;s=exact-aware-popularity-rank&amp;ds=v1%3A%2BiUyX9THje3wM8UAQsT%2BONASXtDjXZD5M%2BpglwSE4K8&amp;crid=116VSDC7G7AAH&amp;qid=1687422214&amp;sprefix=laptops%2Caps%2C462&amp;ref=sr_st_exact-aware-popularity-rank" CvTextArgument="HP" CvType="Text" DesignTimeRectangle="50, 830, 23, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'HP'" FullSelectorArgument="&lt;webctrl aaname='HP' idx='2' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='HP' type='' tag='SPAN' class='a-size-base a-color-base' check:innerText='HP' /&gt;" Guid="6df019cd-686c-4931-9c29-edc8806a6fec" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABsAAAAaCAYAAABGiCfwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEOSURBVEhL7ZOhbsJQGIV5A9KXGG4h4QGqpqtwSxV2QeAnimMOlolJ5mCC1IFrHaAuArFkSSuadO66NZk4++/2J+vauzBxW0y/5JhzT/K16W0LNdLIjNDIjHA+mXwJEIQCacZFgdJ59gYRqq6QQ4T3D97k+CXbTiy0LReLhIsCpfNkiWtLdZr0buDHvGPMyCY7Lr6RxycMOtRf3UNwp6hEphAPNm1tzA5cEJXJ0meXthbu9lwQWtn8KCFlOWvvv7IMgdehrYP5K1eERnYqGpm3+XmoWMCfurik/mJEPU8VGpmD8UpznSmPwz9kpXTRv/URFa6/mW+WfzOK7h9TVHZBdDSyL4zKqqaRGaFGGfAJqBj1PAta708AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.com : laptops' /&gt;" SearchSteps="FuzzySelector, Image, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9600959ee786804aaa9e7d711fc378f2.png" xmlns="">0fTMpKssU4UGh5x-jpc0XBg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "HwscD-joykuu-YCUQpunaw",
+  "Reference": "6OirDdu7D02i2wmLPngoxQ/HwscD-joykuu-YCUQpunaw",
+  "ParentRef": "6OirDdu7D02i2wmLPngoxQ/bDkxu2hi3EaWmWaXpxqrnA",
+  "Name": "SelectingBrand",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-06-22T08:28:15.7968667Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-22T08:31:16.7832122Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

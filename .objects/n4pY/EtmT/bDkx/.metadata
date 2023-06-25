@@ -1,0 +1,15 @@
+﻿{
+  "Id": "bDkxu2hi3EaWmWaXpxqrnA",
+  "Reference": "6OirDdu7D02i2wmLPngoxQ/bDkxu2hi3EaWmWaXpxqrnA",
+  "ParentRef": "6OirDdu7D02i2wmLPngoxQ/EtmT3iZ5TkqCpcz-qR1PsQ",
+  "Name": "AmazonHomePage",
+  "Type": "Screen",
+  "Created": "2023-06-22T08:06:15.1032834Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-22T08:07:27.1253305Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
